@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+:woman: I'm Rachel
+<br>:rocket: I'm currently a student at The School of Code.
+<br> Follow me on twitter: @rachelalk
+
+
+
 <!--
 **rachelalk/rachelalk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
