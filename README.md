@@ -2,6 +2,7 @@
 
 :woman: I'm Rachel
 <br>:rocket: I'm currently a student at The School of Code.
+<br>I am documenting my learning journey through the readMe sections on the weekly hackathon repositories.
 <br> Follow me on twitter: @rachelalk
 
 
