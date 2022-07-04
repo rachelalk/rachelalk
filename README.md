@@ -1,23 +1,12 @@
-### Hi there 👋
+Hi I'm Rachel!
 
-:woman: I'm Rachel
-<br>:rocket: I'm currently a student at The School of Code.
-<br>I am documenting my learning journey through the readMe sections on the weekly hackathon repositories.
-<br> Follow me on twitter: @rachelalk
+I'm currently a student at the School of Code. (Cohort 12, April 2022 - August 2022).
+
+Before beginning my journey into tech I was a primary school teacher so I have more transferrable skills than you could count, some of the most important being patience, an enthusiasm for learning and the ability to work with pretty much anybody!
+
+I have learnt an incredible amount since starting the bootcamp, sometimes it's hard to believe that I have only been doing this a few months when I stop to look at what I have created, both in a team and alone, and I look forward to continuing to learn and develop throughout my career.
+
+On my github you can see some of the projects that I have completed since beginning the bootcamp, I have left projects from the start of my journey available as I think that they really highlight how far I have come in such a short amount of time.
 
 
 
-<!--
-**rachelalk/rachelalk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
