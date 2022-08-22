@@ -2,7 +2,7 @@
 
 Hi I'm Rachel!
 
-I'm currently a student at the School of Code. (Cohort 12, April 2022 - August 2022).
+I'm Manchester based and have just graduated from the School of Code. (Cohort 12, April 2022 - August 2022).
 
 Before beginning my journey into tech I was a primary school teacher so I have more transferrable skills than you could count, some of the most important being patience, an enthusiasm for learning and the ability to work with pretty much anybody!
 
